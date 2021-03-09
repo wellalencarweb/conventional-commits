@@ -23,5 +23,9 @@ https://github.com/commitizen/cz-cli
 `sudo npm install -g commitizen`
 `commitizen init cz-conventional-changelog --save --save-exact.`
 
+# to commit
+
+`git cz`
+
 # commitsar
 `docker run --rm --name="commitsar" -w /src -v "$(pwd)":/src aevea/commitsar commitsar .`
