@@ -22,3 +22,4 @@ If the file .husky/commit-msg already exists, you can edit the file and put this
 https://github.com/commitizen/cz-cli
 `sudo npm install -g commitizen`
 `commitizen init cz-conventional-changelog --save --save-exact.`
+
