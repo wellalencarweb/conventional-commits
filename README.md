@@ -45,9 +45,3 @@ https://github.com/commitizen/cz-cli
 
 # commitsar
 `docker run --rm --name="commitsar" -w /src -v "$(pwd)":/src aevea/commitsar commitsar .`
-
-2.1.4
-
-(2) - MAJOR: API Publica
-(1) - MINOR: Add funcionalidades, mas compatível com a API
-(4) - PATCH: Bugs, ajustes
